@@ -1,0 +1,2 @@
+Title: CollidingAssociations_RotatingView_Today.mp4
+Caption: Rotating view of the colliding stellar associations UPK 535 (blue squares) and Yep 3 (red diamonds) today. Positions in RA, Dec, and distance d have been projected into xyz space as y, z, and x, respectively. Errors in distances ~7.6 pc contribute to a likely artificial elongation in the radial (x) direction. Ellipsoids contain 75 per cent of each association's stars. The ellipsoid volume overlap region is marked with magenta.
